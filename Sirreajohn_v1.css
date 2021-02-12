@@ -6,14 +6,6 @@
 	--color: #f10834;
 }
 
-/* Latest Updates: 02.09.2018
-	Original page design from ffxiv.eorzeacollection.com by Edeon Vails.
-	List CSS and adaption by MurakumoJP.
-	GitHub: https://github.com/Murakumo-JP/MyAnimeList-CSS
-	MyAnimeList Forum: https://myanimelist.net/forum/?topicid=1726107
-	MyAnimeList Profile: https://myanimelist.net/profile/MurakumoJP
-*/
-
 ::-webkit-scrollbar {
     height: 9px;
     width: 9px;
@@ -37,7 +29,6 @@ body {
     background-size: cover !important;
 }
 
-/* Tutorial.Warning by Valerio_Lyndon */
 
 body .initialize-tutorial:hover {
     pointer-events: auto;
@@ -1544,7 +1535,7 @@ a.status-button:hover {
 }
 
 .list-unit::after {
-    content: "MyAnimeList.net is a property of MyAnimeList, LLC. ©2015 All Rights Reserved. \a Original page design from ffxiv.eorzeacollection.com by Edeon Vails. \a List CSS and adaption by MurakumoJP.";
+    content: "MyAnimeList.net is a property of MyAnimeList, LLC. ©2015 All Rights Reserved. \a Original page design from ffxiv.eorzeacollection.com by Edeon Vails. \a List CSS and adaption by sirreajohn.";
     display: block !important;
     padding: 15px !important;
     width: 1025px;
